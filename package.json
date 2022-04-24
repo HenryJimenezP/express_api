@@ -1,0 +1,22 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryJimenezP/express_api.git"
+  },
+  "author": "Henry Jimenenez\u001b\u001b[C\u001b[Cz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryJimenezP/express_api/issues"
+  },
+  "homepage": "https://github.com/HenryJimenezP/express_api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
